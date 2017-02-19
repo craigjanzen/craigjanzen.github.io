@@ -137,7 +137,7 @@ var bio = {
 	    "Operating Systems", "SAN Technologies", "Networking", "Databases", "Programming", "Enterprise Management Software", "Virtualization"
 	//	"HP Software, and Windows, BSM OMi, SiteScope DDMa, UCMDB" , "web development", "JS", "MongoDB", "Java"
 	],
-	"bioPic": "https://googledrive.com/host/0B8MhXMHIff4fTXJOQ0FRbGYxX2c",
+	"bioPic": "https://craigjanzen.github.io/Craig.jpg",
 
 	//Dispay bio json object in resume page
 	display: function() {
