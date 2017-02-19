@@ -1,9 +1,16 @@
 var work = {
 	"jobs": [{
+		"employer": "Wipro Technologies LTD",
+		"title": "Tools Lead Architect - Greater Toronto Airports Authority",
+		"location": "Toronto, Ontario",
+		"dates": "June 2016 - Present",
+		"description": [ "Leading technical delivery team in deploying a large spectrum of Enterprise Management software to ensure monitoring visibility of GTAA’s mission critical infrastructure that support their mission critical business applications. This includes integrating the various element managers that are deployed into the new event management framework. "]
+
+	},{
 		"employer": "J9 Technologies an Axxiome Company",
 		"title": "Senior Consultant ITOM",
 		"location": "Toronto, Ontario",
-		"dates": "May 2015 - Present",
+		"dates": "May 2015 - June 2016",
 		"description": [ "Supporting and consultation services of the Enterprise Management software deployed by our customers and development activities of the J9 Accelerator software. "]
 
 	},{
@@ -127,9 +134,9 @@ var bio = {
 	//"resume": "Resume tesghjb hbbjhbhjbjbjh",
 		"contacts": {
 		"Phone": "905-699-1765",
-		"email": "craig.Janzen@gmail.com",
+		"email": "craig.janzen@gmail.com",
 		//"github": "Resume",
-		"location": "1347 McGuffin Gate, Milton, Ontario"
+		"location": "1347 McGuffin Gate, Milton, ON L9T6M3"
 	},
 	"welcomeMessage": "Technical consultant focused on Enterprise System Management and Automation.",
 	"skills": [
@@ -137,7 +144,8 @@ var bio = {
 	    "Operating Systems", "SAN Technologies", "Networking", "Databases", "Programming", "Enterprise Management Software", "Virtualization"
 	//	"HP Software, and Windows, BSM OMi, SiteScope DDMa, UCMDB" , "web development", "JS", "MongoDB", "Java"
 	],
-	"bioPic": "https://craigjanzen.github.io/Craig.jpg",
+	//"bioPic": "https://craigjanzen.github.io/Craig.jpg",
+	"bioPic": "Craig.jpg",
 
 	//Dispay bio json object in resume page
 	display: function() {
@@ -273,14 +281,16 @@ var education = {
 		"title": "Information Storage and Management V2",
 		"school": "EMC",
 		"dates": "February 2015",
-		"url": "https://education.emc.com/guest/campaign/InformationStorageandManagement.aspx?WT.mc_id=web_emccom_ISMV2_4114"
+		"url": "",
+		"url1": "https://education.emc.com/guest/campaign/InformationStorageandManagement.aspx?WT.mc_id=web_emccom_ISMV2_4114"
 		},    
 	    
 	   {
 		"title": "Symmetrix Integration with VMware vSphere",
 		"school": "EMC",
 		"dates": "December 2014",
-		"url": "http://www.emc.com/collateral/hardware/white-papers/h8115-vmware-vstorage-vmax-wp.pdf"
+		"url": "",
+		"url1": "http://www.emc.com/collateral/hardware/white-papers/h8115-vmware-vstorage-vmax-wp.pdf"
 	},
 	    
 	    
@@ -289,7 +299,8 @@ var education = {
 		"title": "VMware vSphere: What's New [V5.1]",
 		"school": "VMWARE",
 		"dates": "May 2013",
-		"url": "https://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&a=one&id_subject=38605"
+		"url": "",
+		"url1": "https://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&a=one&id_subject=38605"
 	},
 
 
@@ -297,12 +308,14 @@ var education = {
 		"title": "PowerShell for the IT Administrator",
 		"school": "Microsoft",
 		"dates": "April 2013",
-		"url": "http://www.microsoft.com/netherlands/microsoftuniversity/detail.aspx?id=28&category=workshop"
+		"url": "",
+		"url1": "http://www.microsoft.com/netherlands/microsoftuniversity/detail.aspx?id=28&category=workshop"
 	}, {
 		"title": "Configuration Management System 9.x Advanced",
 		"school": "HP",
 		"dates": "February 2013",
-		"url": "http://h20546.www2.hp.com/main/get_file.cfm?code=9090&file=UCMDB350-90-Outline-A.pdf&sitepick=DU"
+		"url": "",
+		"url1": "http://h20546.www2.hp.com/main/get_file.cfm?code=9090&file=UCMDB350-90-Outline-A.pdf&sitepick=DU"
 
 	}, {
 		"title": "HP - Universal CMDB 9.x Essentials training",
