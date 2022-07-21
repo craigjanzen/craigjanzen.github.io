@@ -144,7 +144,7 @@ var work = {
 //////////////////////////////////////////////////BIO/////////////////////////////////////////////////////////////////
 var bio = {
 	"name": "Craig Janzen",
-	"role": "Enterprise System Management Consultant",
+	"role": "IT Technical Professional",
 	//"resume": "Resume tesghjb hbbjhbhjbjbjh",
 		"contacts": {
 		"Phone": "905.462.8017",
@@ -152,7 +152,7 @@ var bio = {
 		//"github": "Resume",
 		"location": "1347 McGuffin Gate, Milton, ON L9T6M3"
 	},
-	"welcomeMessage": "Technical consultant focused on Enterprise System Management and Automation.",
+	"welcomeMessage": "Technical Professional with extensive experience in Enterprise System Management, Automation, Cloud, and Development/Deployments of key applications.",
 	"skills": [
 	    
 	    "Operating Systems", "SAN Technologies", "Networking", "Databases", "Programming", "Enterprise Management Software", "Virtualization"
