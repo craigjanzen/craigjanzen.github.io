@@ -1,5 +1,19 @@
 var work = {
 	"jobs": [{
+		"employer": "Cofense",
+		"title": "Senior Cloud Engineer",
+		"location": "Virginia -Remote",
+		"dates": "July 2021 - July 2022",
+		"description": [ "Leading technical delivery team in deploying a large spectrum of Enterprise Management software to ensure monitoring visibility of GTAA’s mission critical infrastructure that support their mission critical business applications. This includes integrating the various element managers that are deployed into the new event management framework. "]
+
+	},{
+		"employer": "CSCGlobal",
+		"title": "Team Lead ITOM Observability",
+		"location": "Delaware -Remote",
+		"dates": "April 2017 - July 2021",
+		"description": [ "Leading technical delivery team in deploying a large spectrum of Enterprise Management software to ensure monitoring visibility of GTAA’s mission critical infrastructure that support their mission critical business applications. This includes integrating the various element managers that are deployed into the new event management framework. "]
+
+	},{
 		"employer": "Wipro Technologies LTD",
 		"title": "Tools Lead Architect - Greater Toronto Airports Authority",
 		"location": "Toronto, Ontario",
@@ -133,7 +147,7 @@ var bio = {
 	"role": "Enterprise System Management Consultant",
 	//"resume": "Resume tesghjb hbbjhbhjbjbjh",
 		"contacts": {
-		"Phone": "905-699-1765",
+		"Phone": "905.462.8017",
 		"email": "craig.janzen@gmail.com",
 		//"github": "Resume",
 		"location": "1347 McGuffin Gate, Milton, ON L9T6M3"
