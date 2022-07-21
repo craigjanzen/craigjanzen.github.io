@@ -278,6 +278,32 @@ var education = {
 
 	}],
 	"onlineCourses": [
+		{
+		"title": "ServiceNow – Service Mapping",
+		"school": "ServiceNow",
+		"dates": "June 2019",
+		"url": ""
+		},
+		{
+		"title": "ServiceNow – Discovery",
+		"school": "ServiceNow",
+		"dates": "June 2019",
+		"url": ""
+		},
+		{
+		"title": "ServiceNow – Fundamentals",
+		"school": "ServiceNow",
+		"dates": "May 2019",
+		"url": ""
+		},
+		{
+		"title": "ServiceNow – Event Management",
+		"school": "ServiceNow",
+		"dates": "May 2019",
+		"url": ""
+		},
+		
+		
 	    {
 		"title": "HP OMi Delta training",
 		"school": "HP",
