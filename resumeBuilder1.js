@@ -4,14 +4,14 @@ var work = {
 		"title": "Senior Cloud Engineer",
 		"location": "Virginia -Remote",
 		"dates": "July 2021 - July 2022",
-		"description": [ "Leading technical delivery team in deploying a large spectrum of Enterprise Management software to ensure monitoring visibility of GTAA’s mission critical infrastructure that support their mission critical business applications. This includes integrating the various element managers that are deployed into the new event management framework. "]
+		"description": [ "Senior Cloud Engineer Developing/Deploying Applications within AWS and Azure "]
 
 	},{
 		"employer": "CSCGlobal",
 		"title": "Team Lead ITOM Observability",
 		"location": "Delaware -Remote",
 		"dates": "April 2017 - July 2021",
-		"description": [ "Leading technical delivery team in deploying a large spectrum of Enterprise Management software to ensure monitoring visibility of GTAA’s mission critical infrastructure that support their mission critical business applications. This includes integrating the various element managers that are deployed into the new event management framework. "]
+		"description": [ "Technical and Team Lead for CSCGlobal's Enterprise Monitoring / Log Management environment. "]
 
 	},{
 		"employer": "Wipro Technologies LTD",
