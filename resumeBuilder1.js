@@ -17,7 +17,7 @@ var work = {
 		"employer": "Wipro Technologies LTD",
 		"title": "Tools Lead Architect - Greater Toronto Airports Authority",
 		"location": "Toronto, Ontario",
-		"dates": "June 2016 - Present",
+		"dates": "June 2016 - March 2017",
 		"description": [ "Leading technical delivery team in deploying a large spectrum of Enterprise Management software to ensure monitoring visibility of GTAA’s mission critical infrastructure that support their mission critical business applications. This includes integrating the various element managers that are deployed into the new event management framework. "]
 
 	},{
