@@ -2,7 +2,7 @@ var work = {
 	"jobs": [{
 		"employer": "Cofense",
 		"title": "Senior Cloud Engineer",
-		"location": "Virginia -Remote",
+		"location": "Virginia - Remote",
 		"dates": "July 2021 - July 2022",
 		"description": [ "Senior Cloud Engineer Developing/Deploying Applications within AWS and Azure "]
 
