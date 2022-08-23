@@ -1,5 +1,12 @@
 var work = {
 	"jobs": [{
+		"employer": "Kyndryl",
+		"title": "Site Reliability Engineer",
+		"location": "Canada - Remote",
+		"dates": "August 2022 - Present",
+		"description": [ "Site Reliable Engineer"]
+
+	},{
 		"employer": "Cofense",
 		"title": "Senior Cloud Engineer",
 		"location": "Virginia - Remote",
