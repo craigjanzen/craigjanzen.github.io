@@ -18,10 +18,7 @@ jobs:
         run: |
           test123=$( git diff HEAD~1) || true
           echo "::set-output name=test1::$test123"
-          echo "::set-output name=test123::$test123"
-          echo "Testing123=$('git diff HEAD~1')" >> $GITHUB_ENV
-          
-          
+
       - name: get variable output
         run: |
           echo ${{ steps.test.outputs.test1 }}
