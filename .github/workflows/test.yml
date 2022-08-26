@@ -17,8 +17,10 @@ jobs:
           echo "::set-output name=test1::$(
           git diff HEAD~1
           )"
+          echo "::set-output name=test123::$test123"
+          
       - name: get variable output
       
         run: |
           echo ${{ steps.test.outputs.test1 }}
-          echo "::set-output name=test123::$test123"
+          echo ${{ steps.test.outputs.test123 }}
