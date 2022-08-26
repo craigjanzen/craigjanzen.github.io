@@ -11,13 +11,12 @@ jobs:
         run: | 
           git diff --name-only ${{ github.event.before }} ${{ github.event.after }}
       - name: get changes
-        id: test
         run: |
           DIFF=$( git diff HEAD~1) || true
           echo "::set-output name=test1::$DIFF"
-
+        id: test11
       - name: get variable output
         run: |
-          echo ${{ steps.test.outputs.test1 }}
+          echo ${{ steps.test11.outputs.test1 }}
 
 
