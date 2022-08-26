@@ -12,7 +12,7 @@ jobs:
           git diff --name-only ${{ github.event.before }} ${{ github.event.after }}
       - name: get changes
         id: test
-        run: |
+        run: >-
           echo "::set-output name=test1::$(
           git diff HEAD~1
           )"
