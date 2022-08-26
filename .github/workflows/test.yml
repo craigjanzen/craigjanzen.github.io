@@ -11,5 +11,9 @@ jobs:
         run: | 
           git diff --name-only ${{ github.event.before }} ${{ github.event.after }}
       - name: get changes
+        id: test
         run: | 
           git diff HEAD~1
+      - name: get variable output
+        run: |
+          echo ${{ steps.test.outputs.stdout }}
