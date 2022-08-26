@@ -23,7 +23,6 @@ jobs:
           
           
       - name: get variable output
-      
         run: |
           echo ${{ steps.test.outputs.test1 }}
 
