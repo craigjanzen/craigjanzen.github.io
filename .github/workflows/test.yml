@@ -16,8 +16,8 @@ jobs:
       - name: get changes
         id: test
         run: |
-          test123=$( git diff HEAD~1) || true
-          echo "::set-output name=test1::$test123"
+          DIFF=$( git diff HEAD~1) || true
+          echo "::set-output name=test1::$DIFF"
 
       - name: get variable output
         run: |
