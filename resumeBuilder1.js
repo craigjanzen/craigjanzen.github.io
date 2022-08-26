@@ -4,7 +4,7 @@ var work = {
 		"title": "Site Reliability Engineer",
 		"location": "Canada - Remote",
 		"dates": "August 2022 - Present",
-		"description": [ "Site Reliable Engineer SRE"]
+		"description": [ "Site Reliable Engineer -SRE"]
 
 	},{
 		"employer": "Cofense",
