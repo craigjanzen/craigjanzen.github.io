@@ -161,7 +161,7 @@ var bio = {
 	},
 	"welcomeMessage": "Technical Professional with extensive experience in Enterprise System Management, Automation, Cloud, and Development/Deployments of key applications.",
 	"skills": [
-	    "Cloud (AWS/Azure)", "DevOps", "Databases", "Scripting Languages", "CI/CD", "Enterprise Management Software", "Automation", "Microservices", "Operating Systems", "Virtualization", "Networking", "APM", "Log Management", "Containers"
+	    "Cloud (AWS/Azure)", "DevOps", "Databases", "Scripting Languages", "CI/CD", "Enterprise Management Software", "Automation", "Microservices", "Operating Systems", "Virtualization", "Networks", "APM", "Log Management", "Containers"
 	//	"HP Software, and Windows, BSM OMi, SiteScope DDMa, UCMDB" , "web development", "JS", "MongoDB", "Java"
 	],
 	//"bioPic": "https://craigjanzen.github.io/Craig.jpg",
