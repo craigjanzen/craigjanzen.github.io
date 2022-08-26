@@ -17,6 +17,6 @@ jobs:
         id: test11
       - name: get variable output
         run: |
-          echo ${{ steps.test11.outputs.test1 }}
+          echo "the String is : ${{ steps.test11.outputs.test1 }}"
 
 
