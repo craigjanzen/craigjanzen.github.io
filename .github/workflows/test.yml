@@ -26,7 +26,4 @@ jobs:
       
         run: |
           echo ${{ steps.test.outputs.test1 }}
-          echo ${{ steps.test.output.test123 }}
-          echo ${{ env.Testing123 }}
-          
-          echo ${{ env }}
+
