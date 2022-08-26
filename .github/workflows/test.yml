@@ -18,5 +18,9 @@ jobs:
       - name: get variable output
         run: |
           echo "the String is : ${{ steps.test11.outputs.test1 }}"
+      - name: test condition
+        if: contains('a', ${{ steps.test11.outputs.test1 }})
+        run: |
+          echo "Lets run"
 
 
