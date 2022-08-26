@@ -26,6 +26,5 @@ jobs:
       
         run: |
           echo ${{ steps.test.outputs.test1 }}
-          echo ${{ steps.test.output.test123 }}
 
 
