@@ -13,7 +13,7 @@ jobs:
       - name: get changes
         run: |
           DIFF=$( git diff HEAD~1) || true
-          echo "::set-output name=test1::$DIFF"
+          echo ::set-output name=test1::$DIFF
         id: test11
       - name: get variable output
         run: |
