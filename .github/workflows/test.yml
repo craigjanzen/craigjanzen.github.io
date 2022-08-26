@@ -10,3 +10,6 @@ jobs:
       - name: get file changes
         run: | 
           git diff --name-only ${{ github.event.before }} ${{ github.event.after }}
+      - name: get changes
+        run: | 
+          git diff HEAD~1
