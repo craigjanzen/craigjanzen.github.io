@@ -1,7 +1,6 @@
 on:
   push:
-env:
-  DEVOPS_DIR: devops
+
 jobs:
    build: 
      runs-on: ubuntu-latest
@@ -25,13 +24,5 @@ jobs:
         run: |
           echo "Lets run"
           
-      - name: Check-out devops repository
-        uses: actions/checkout@v2
-        with:
-          repository: craigjanzen/pythontest
-
-      - name: Hello World
-        run: python ${{ env.DEVOPS_DIR }}/hello_world.py
-        shell: sh
 
 
